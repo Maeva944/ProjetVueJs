@@ -5,8 +5,6 @@ import NotFound from "@/pages/NotFound.vue";
 import Register from "@/pages/Register.vue";
 
 
-
-
 const router = createRouter({
     history: createWebHashHistory(),
     routes: [

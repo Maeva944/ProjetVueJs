@@ -1,0 +1,177 @@
+[
+    {
+      "id": 1,
+      "name": "Chef Pierre",
+      "specialties": ["Cuisine Française", "Pâtisserie"],
+      "description": "Chef renommé pour ses plats traditionnels français avec une touche moderne.",
+      "image": "chef-pierre.jpg",
+      "dishes": [
+        {
+          "id": 101,
+          "name": "Quiche Lorraine",
+          "description": "Tarte salée garnie de crème, lardons et fromage.",
+          "price": 12.50,
+          "image": "quiche-lorraine.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Bœuf Bourguignon",
+          "description": "Ragoût de bœuf mijoté dans un vin rouge de Bourgogne.",
+          "price": 18.90,
+          "image": "boeuf-bourguignon.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Tarte Tatin",
+          "description": "Tarte renversée aux pommes caramélisées.",
+          "price": 8.00,
+          "image": "tarte-tatin.jpg"
+        },
+        {
+          "id": 104,
+          "name": "Soupe à l'oignon",
+          "description": "Soupe traditionnelle française garnie de croûtons et de fromage.",
+          "price": 7.50,
+          "image": "soupe-oignon.jpg"
+        },
+        {
+          "id": 105,
+          "name": "Crème brûlée",
+          "description": "Dessert à base de crème vanillée et de caramel croquant.",
+          "price": 6.00,
+          "image": "creme-brulee.jpg"
+        },
+        {
+          "id": 106,
+          "name": "Croque-Monsieur",
+          "description": "Sandwich au jambon et fromage gratiné.",
+          "price": 5.90,
+          "image": "croque-monsieur.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chef Maria",
+      "specialties": ["Cuisine Italienne"],
+      "description": "Experte en plats italiens authentiques, faits maison avec des ingrédients frais.",
+      "image": "chef-maria.jpg",
+      "dishes": [
+        {
+          "id": 201,
+          "name": "Lasagnes",
+          "description": "Pâtes en couches avec sauce tomate, viande et fromage.",
+          "price": 14.90,
+          "image": "lasagnes.jpg"
+        },
+        {
+          "id": 202,
+          "name": "Tiramisu",
+          "description": "Dessert italien au café, mascarpone et cacao.",
+          "price": 6.50,
+          "image": "tiramisu.jpg"
+        },
+        {
+          "id": 203,
+          "name": "Pizza Margherita",
+          "description": "Pizza classique avec sauce tomate, mozzarella et basilic.",
+          "price": 11.00,
+          "image": "pizza-margherita.jpg"
+        },
+        {
+          "id": 204,
+          "name": "Risotto aux champignons",
+          "description": "Riz crémeux avec champignons et parmesan.",
+          "price": 13.50,
+          "image": "risotto-champignons.jpg"
+        },
+        {
+          "id": 205,
+          "name": "Spaghetti Carbonara",
+          "description": "Pâtes avec lardons, œufs et fromage.",
+          "price": 12.00,
+          "image": "spaghetti-carbonara.jpg"
+        },
+        {
+          "id": 206,
+          "name": "Panna Cotta",
+          "description": "Dessert crémeux servi avec un coulis de fruits rouges.",
+          "price": 5.50,
+          "image": "panna-cotta.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chef Ahmed",
+      "specialties": ["Cuisine Marocaine", "Tajines"],
+      "description": "Spécialiste des plats marocains traditionnels, riches en saveurs et épices.",
+      "image": "chef-ahmed.jpg",
+      "dishes": [
+        {
+          "id": 301,
+          "name": "Couscous Royal",
+          "description": "Semoule accompagnée de légumes, viandes et épices marocaines.",
+          "price": 15.50,
+          "image": "couscous-royal.jpg"
+        },
+        {
+          "id": 302,
+          "name": "Tajine de poulet au citron confit",
+          "description": "Plat mijoté avec poulet, olives et citron confit.",
+          "price": 17.00,
+          "image": "tajine-poulet.jpg"
+        },
+        {
+          "id": 303,
+          "name": "Briouates",
+          "description": "Feuilletés farcis aux légumes ou viande hachée.",
+          "price": 6.50,
+          "image": "briouates.jpg"
+        },
+        {
+          "id": 304,
+          "name": "Harira",
+          "description": "Soupe marocaine traditionnelle avec lentilles et pois chiches.",
+          "price": 8.00,
+          "image": "harira.jpg"
+        },
+        {
+          "id": 305,
+          "name": "Pastilla au poulet",
+          "description": "Feuilleté sucré-salé avec poulet, amandes et épices.",
+          "price": 12.90,
+          "image": "pastilla-poulet.jpg"
+        },
+        {
+          "id": 306,
+          "name": "Chebakia",
+          "description": "Pâtisserie marocaine au miel et graines de sésame.",
+          "price": 4.50,
+          "image": "chebakia.jpg"
+        }
+      ]
+    },
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "password": "123",
+        "role": "customer"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "password": "456",
+        "role": "customer"
+      },
+      {
+        "id": 3,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "789",
+        "role": "admin"
+      }
+  ]
+  
